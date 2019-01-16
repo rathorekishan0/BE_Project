@@ -1,0 +1,4 @@
+E:/Project/Final[[:space:]]Year[[:space:]]Project filter=lfs diff=lfs merge=lfs -text
+E:/Project/Final[[:space:]]Year[[:space:]]Project/* filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
